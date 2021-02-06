@@ -5,3 +5,5 @@
 <h1>二次开发?</h1>
 <p>您可以根据这个进行二次开发，但是必须主动开源</p>
 <a href="https://jq.qq.com/?_wv=1027&k=r9AvEXwq">官方群</a>
+
+<a href="http://showdoc.com.cn/ymcpder">文档帮助</a>
